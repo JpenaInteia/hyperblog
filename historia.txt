@@ -6,4 +6,6 @@ Esta es una prueba de commit de un usuario adicional Jeapenach@gmail.com Soy una
 
 Master 1
 
+Master 2
+
 Mañana nos enfocaremos en su vida laboral
